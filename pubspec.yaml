@@ -1,7 +1,7 @@
 name: money_transfer_view_lego
 description: "beautiful money transfer view lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/money_transfer_view_lego
 
 version: 1.0.0
 
